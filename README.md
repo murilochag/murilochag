@@ -2,9 +2,6 @@
 
 - 👨🏾‍🦱 I'm Murilo
 - 📖 Information systems student
-- ☕ Java developer
-- 🛠️ Back-end
-- 📱 Android
 
 ##
 
