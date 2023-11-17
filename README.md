@@ -16,6 +16,7 @@ I am passionate about the Java and Android ecosystem. Additionally, I develop in
 
 In addition to programming and working with technology, I enjoy playing with my Xbox, painting with watercolors and gouache, and I love Star Wars.
 <br>
+<br>
 <img src="https://media.giphy.com/media/ehnBGPgDOusUM/giphy.gif" />
 
 <hr></hr>
